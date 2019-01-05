@@ -2,7 +2,7 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
+    "title": "Test Context",
     "copy": "For global styles.",
     "image": "../images/gallery/react-context.jpg"
   },
